@@ -2,8 +2,3 @@
 
 Hello friends !!
 
-includes:
-
-commands 
-
-structure
